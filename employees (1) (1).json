@@ -1,0 +1,126 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "257c6fa5-edbe-4cef-8621-f670830c8e18",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d4aba586-f6c3-40b3-8bae-1fdffb3aa522",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "[\n",
+    "  {\n",
+    "    \"id\": 1,\n",
+    "    \"name\": \"Alice\",\n",
+    "    \"department\": \"IT\",\n",
+    "    \"salary\": 75000\n",
+    "  },\n",
+    "  {\n",
+    "    \"id\": 2,\n",
+    "    \"name\": \"Bob\",\n",
+    "    \"department\": \"HR\",\n",
+    "    \"salary\": 65000\n",
+    "  },\n",
+    "  {\n",
+    "    \"id\": 3,\n",
+    "    \"name\": \"Charlie\",\n",
+    "    \"department\": \"Finance\",\n",
+    "    \"salary\": 80000\n",
+    "  }\n",
+    "]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c7f36a29-649f-4c9b-9a7e-08f64fbbf785",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "42c87146-ce0b-4442-8c66-e9d626476573",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "05e2f28e-2e0f-4f2c-9e09-f32825b31b49",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "de9332a3-d834-4f2c-80ee-87a19b553dd7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2ead8e56-8155-441c-a7cf-7d35942c24a9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "da5f264d-dd88-458e-b38b-ad334665e57c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3b3abd8d-5f37-469b-ad5b-9145ad97bbc9",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "286acff4-dc05-4083-89cd-835a1ffac5bd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "PySpark Env",
+   "language": "python",
+   "name": "pyspark_env"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.25"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
