@@ -1,0 +1,11 @@
+id,name,age,gender,salary,join_date,department,score
+1,Alice,25,F,50000,10-05-2021,Sales,88
+2,Bob,30,M,62000,15-03-2020,HR,92
+3,Charlie,30,M,58000,15-07-2019,IT,79
+4,david,45,male,45000,IT,IT,45
+5,Eve,-3,F,72000,2022-13-01,IT,65
+5,Eve,200,F,1000000,20-11-2018,Finance,300
+7,Frank,33,M,54000,wrong_date,finance,73
+8,Renu,29,FEMALE,51000,01-09-2021,Sales,85
+9, Grace ,30,F,49000,01-12-2020,SALES,90
+10,Henry,41,Unknown,34000,05-05-2017,IT,82
